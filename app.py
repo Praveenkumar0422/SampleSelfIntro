@@ -1,5 +1,7 @@
-print("Hello, my name is Praveen Kumar.")
+print("Hi, my name is Praveen Kumar.")
 print("I am a Senior Software Developer.")
 print("I have experience in .NET development.")
 print("I am currently learning Data Engineering and AI.")
 print("I am interested in technology and software development.")
+print("I enjoy building scalable backend architectures and distributed systems.")
+print("I am passionate about solving complex problems through clean code.")
